@@ -1,0 +1,7 @@
+server.max-http-header-size: 10MB
+
+plain-java-library:
+  some-service:
+    service-param1: 10
+    service-param2: 20
+    service-param3: 30
